@@ -79,45 +79,45 @@
 </nav>
 <div class="jumbotron jumbotron-fluid jumbotron1">
   <div class="container">
-    <h2>About FoodHub</h2>      
-    <p>We Offers The Best Food Delivery In India. Online food ordering is the process of ordering food through the restaurant's own website or mobile app, or through a multi-restaurant's website or app. A customer can choose to have the food delivered or for pick-up. </p>
+    <h2>About Explorica</h2> 
+    <p>We Offers The Best services of Hotels in India. Online booking of rooms is very easy and smooth experience for users. users can easily find his destination and according to their comfort they can easily book hotels. </p>
   </div>
 </div>
       <div class="container">
         
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="thumbnail"><img src="http://getwallpapers.com/wallpaper/full/4/d/1/744025-widescreen-bill-gates-wallpaper-1920x1080-desktop.jpg">
+                    <div class="thumbnail"><img src="AMAN.jpeg">
                         <div class="caption">
-                            <h4>Mr. Bill Gates</h4>
-                            <p>Founder of FoodHub</p>
+                            <h4>Aman Kumar</h4>
+                            <p>Founder of Explorica</p>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="thumbnail"><img src="https://cdn.wallpapersafari.com/54/90/P5xiaj.jpg">
+                    <div class="thumbnail"><img src="NITI.jpeg">
                       <div class="caption">
-                            <h4>Mr. Mark Zuckeburg</h4>
-                            <p>Administrator of FoodHub</p>
+                            <h4>Nitin Saini</h4>
+                            <p>Administrator of Explorica</p>
                         </div>
                     </div>
                 </div>
 
                  <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="thumbnail"><img src="https://wallpapercave.com/wp/wp4171369.jpg">
+                    <div class="thumbnail"><img src="ABHI.jpeg">
                           <div class="caption">
-                            <h4>Mr. Larry Page</h4>
-                            <p>CEO of FoodHub</p>
+                            <h4>Abhishek Kumar</h4>
+                            <p>CEO of Explorica</p>
                         </div>
 
                     </div>
                 </div> 
                               <div class="col-md-3 col-sm-6 col-xs-12">
-                    <div class="thumbnail"><img src="http://getwallpapers.com/wallpaper/full/0/d/7/789930-amazing-elon-musk-wallpapers-1920x1080.jpg">
+                    <div class="thumbnail"><img src="KISH.jpeg">
                           <div class="caption">
-                            <h4>Mr. Elon Musk</h4>
-                            <p>Co-Founder of FoodHub</p>
+                            <h4>Kishan Kumar</h4>
+                            <p>Co-Founder of Explorica</p>
                         </div>
 
                     </div>
@@ -128,7 +128,7 @@
         </div>
               <footer class="footer">
     <div class="container">
-        <center><p>Copyright © FoodHUB. All Rights Reserved | Contact Us: +91 90000 00000</p></center>     
+        <center><p>Copyright © Explorica. All Rights Reserved | Contact Us: +91 90000 00000</p></center>     
     </div>
 </footer>
 
